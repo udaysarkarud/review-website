@@ -1,0 +1,28 @@
+.card-text{
+    line-height: 15px;
+    font-weight: 500;
+    margin: 25px 0;
+}
+.card-h{
+    background-color: #df5c4f;
+    color: white;
+    margin: 0 15px;
+    padding: 5px 0;
+    letter-spacing: 3px;
+    position: relative;
+    top: -50px;
+}
+.hover{
+    color: inherit;
+  background-color: transparent;
+  transition: all .5s ease;
+  z-index: 0;
+  position: relative;
+}
+.hover:hover{
+    z-index: 1;
+    color: inherit;
+    background:white !important;
+    box-shadow: 0 30px 60px 0 rgb(0 0 0 / 12%);
+    border: 0 !important;
+}

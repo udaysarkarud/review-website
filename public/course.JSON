@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "courseImg": "https://www.thecuttingclass.com/wp-content/uploads/2011/03/593bfb4412879_drape-at-lanvin.jpg",
+        "bannerImg": "https://3.bp.blogspot.com/-X7wx_kj-Xbk/WZh-z4G5uLI/AAAAAAAAE4g/iduIEtH9HUUhRVQY9Vz3NWWHDt-V_CBaQCK4BGAYYCw/s640/Fashionshow-1.png",
+        "courseName": "Pattern Making for Fashion Design",
+        "skill": {
+            "one": "41 mins on-demand video",
+            "two": "Bridal Makeup Workshop",
+            "three": "Full lifetime access",
+            "four": "Access on mobile and TV"
+        },
+        "title": "How to use Pattern Making Principals and Techniques to draft patterns for your original fashion design ideas.",
+        "price": "$350",
+        "discount": "$25",
+        "instructor": "Tamara Barr",
+        "details": "This Course is about using the techniques of pattern making, also known as pattern drafting, in fashion design, to create patterns that will then be used to cut fabric and ultimately be sewn into garments. Methods and techniques studied in major fashion universities are demonstrated in a clear.",
+        "instructorImg": "https://images.generated.photos/kRvc7xrX8KcU--VWzyowJO6kZyaGUMzlZijWwgwqjbQ/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTIxNTc4LmpwZw.jpg"
+    },
+    {
+        "id": 2,
+        "courseImg": "https://www.thecuttingclass.com/wp-content/uploads/2011/03/593bfb45af356_drape-at-lanvin.jpg",
+        "bannerImg": "https://4.bp.blogspot.com/-6IojaeuYQ8E/WZh-yFjJNZI/AAAAAAAAE4Q/4JQU3wwrgxIzEptfZx3lCfx_9P8DXh67wCK4BGAYYCw/s640/Fashionshow-2.png",
+        "courseName": "Sketching for Fashion Design ",
+        "skill": {
+            "one": "32 mins on-demand video",
+            "two": "Full lifetime access",
+            "three": "Access on mobile and TV",
+            "four": "Certificate of completion"
+        },
+        "title": "Learn how to sketch your fashion ideas. A step-by-step course on how professionals do it.",
+        "price": "$987",
+        "discount": "$140",
+        "instructor": "Susie Foy",
+        "details": "This Fashion Sketching Course (7-videos-modules) is for beginners: young and old, with an interest and passion for designing fashion.  In this Course you will learn how the body moves, body movement, and  balancing the body using the Plumb Line.  You will learn the industry standard 9-Heads Croqui.",
+        "instructorImg": "https://images.generated.photos/_BAuw6tivtgWb6m7HfuoPlBee-7TYjFAH4o_ks7WO7Q/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODc4Mjc0LmpwZw.jpg"
+    },
+    {
+        "id": 3,
+        "courseImg": "https://www.thecuttingclass.com/wp-content/uploads/2011/03/593bfb464e7f8_drape-at-lanvin.jpg",
+        "bannerImg": "https://1.bp.blogspot.com/-icLemCLwE5o/WZh-0L7GQxI/AAAAAAAAE4w/WwhXNtJPbD86tEKyMBfD6asHJb40nIzcgCK4BGAYYCw/s640/Fashionshow-6.png",
+        "courseName": "Fabrics for Fashion Design: Essential Learning for Designers",
+        "skill": {
+            "one": "1 hour on-demand video",
+            "two": "Full lifetime access",
+            "three": "Access on mobile and TV",
+            "four": "Certificate of completion"
+        },
+        "title": "Learn fundamental Categories, Characteristics, Properties of the different types of fabrics for fashion designing.",
+        "price": "$1830",
+        "discount": "$360",
+        "instructor": "Veronica Dever",
+        "details": "This Course defines the different types of Fabrics and how to use them in developing a design, a group, or a collection. In this Course you learn fabric's Characteristics and Properties and Categories such as Knits, Woven and Non-Woven; analyzing fibers: Natural and Man-Made Fibers; Plant-based and Animal-based Fibers; and different types of Weaves.",
+        "instructorImg": "https://images.generated.photos/BVcXSE-IwroAnCdftHciUQNc7dfRgvNgsxUF6sFXIXM/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Njg3MzYzLmpwZw.jpg"
+    },
+    {
+        "id": 4,
+        "courseImg": "https://www.thecuttingclass.com/wp-content/uploads/2011/03/593bfb4714746_drape-at-lanvin.jpg",
+        "bannerImg": "https://www.khaosodenglish.com/wp-content/uploads/2019/08/800-3-696x463.jpeg",
+        "courseName": "Basic Fashion Illustration",
+        "skill": {
+            "one": "2.5 hours on-demand video",
+            "two": "Complete Kit",
+            "three": "3 articles",
+            "four": "7 downloadable resources"
+        },
+        "title": "Learn the simple techniques of how to draw fashion figures and postures.",
+        "price": "$700",
+        "discount": "$66",
+        "instructor": "Andrew Long",
+        "details": "This course will teach you how to draw the fashion figures starting from the basic understanding of the 9-head proportion, body elements from head to toe, movement and posture to fashion poses with garments. It is a summary of a 4-month course in a regular fashion school that will shorten your learning process and save your time and money.",
+        "instructorImg": "https://images.generated.photos/KCRL8yFpSwTEmectZrnznUhZgZhIAKAPWyA-h_TTFFs/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDUwOTMxLmpwZw.jpg"
+    },
+    {
+        "id": 5,
+        "courseImg": "https://www.thecuttingclass.com/wp-content/uploads/2011/03/593bfb4784867_drape-at-lanvin.jpg",
+        "bannerImg": "https://www.universityoffashion.com/blog/wp-content/uploads/2019/11/Louis-Vuittons-spring-2020-show.-vogue-1024x683.jpg",
+        "courseName": "Become a fashion buyer",
+        "skill": {
+            "one": "Assignments",
+            "two": "Full lifetime access",
+            "three": "5 downloadable resources",
+            "four": "3 hours on-demand video"
+        },
+        "title": "Learn the essential tasks of a fashion buyer and skills required to secure your first role!",
+        "price": "$1350",
+        "discount": "$100",
+        "instructor": "Daisy McCoy",
+        "details": "This course will help you decide if becoming a fashion buyer is for you, and it will help you understand the key tasks of a fashion buyer and the skills required to become a successful fashion buyer. By the end of this course you will be in a position to understand what a fashion buyer does. You will have the confidence to either embark on further study or take the steps to securing your first job as a fashion buyer.",
+        "instructorImg": "https://images.generated.photos/W1-nFy63WDv1T1w64D7X92rMdeVec1n6gfXtqVsoZU0/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Mzk5NDM1LmpwZw.jpg"
+    },
+    {
+        "id": 6,
+        "courseImg": "https://www.thecuttingclass.com/wp-content/uploads/2011/03/593bfb484b373_drape-at-lanvin.jpg",
+        "bannerImg": "https://i2.wp.com/www.socialnews.xyz/wp-content/uploads/2020/02/13/Neha-Mahajan-Walked-Ramp-for-Jayati-Goenka-at-lakme-Fashion-show-2020-HD-Gallery-.jpg",
+        "courseName": "Look Your VERY best – Learn about Color, Style & Fashion",
+        "skill": {
+            "one": "2 hours on-demand video",
+            "two": "1 downloadable resource",
+            "three": "Access on mobile and TV",
+            "four": "Certificate of completion"
+        },
+        "title": "Create Your Unique Style – With YOUR Best Colors, Cuts, Lines, Prints and Accessories.",
+        "price": "$3782",
+        "discount": "$933",
+        "instructor": "Carolyn Wylie",
+        "details": "This course will help you to choose garments that flatter your body type and how to bring your figure in perspective with the right colors, lines, cuts, fabrics & accessories. Take this course today, (with Personality Style test) and create your unique personal style - beyond trends. Make no more costly mistakes, you will be able to shop with focus, according to your individual lifestyle needs, your personal sense of style and budget.",
+        "instructorImg": "https://images.generated.photos/1LfN8nKsncEhytzkySj9-Q7IIoCS9O9_MGGx-4K0fts/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTU2Nzk5LmpwZw.jpg"
+    },
+    {
+        "id": 7,
+        "courseImg": "https://www.thecuttingclass.com/wp-content/uploads/2011/03/593bfb493e13c_drape-at-lanvin.jpg",
+        "bannerImg": "http://www.xinhuanet.com/english/2019-05/13/138054770_15577578231921n.jpg",
+        "courseName": "Be Your Own Stylist | Feel Confident & Love Your Style",
+        "skill": {
+            "one": "1 hour on-demand video",
+            "two": "Full lifetime access",
+            "three": "Access on mobile and TV",
+            "four": "Certificate of completion"
+        },
+        "title": "Learn the tips of a personal stylist: how to style your body, shop with success, and enjoy getting dressed!",
+        "price": "$499",
+        "discount": "$130",
+        "instructor": "Marsha Warner",
+        "details": "Of course there is some creativity involved in style and you put your own personal spin on it, but at the base of it all there are best practices, tips and guidelines that you can follow that will help you look your best.  In this course that's exactly what I’m going to teach you.",
+        "instructorImg": "https://images.generated.photos/_q-IOz8gfRj0TGfcP9z7akg849CR31DqjIk-uZ6ttC8/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Njc2NDY4LmpwZw.jpg"
+    }
+]

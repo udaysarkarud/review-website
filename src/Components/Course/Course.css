@@ -1,0 +1,26 @@
+.course-img{
+    height: 350px;
+}
+.course{ 
+    padding: 50px 0;
+    position: relative;
+}
+.course::before{
+    background-color: rgba(70, 41, 24, 0.499);
+    content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+.text{
+    z-index: 2;
+    font-weight: 800;
+    letter-spacing: 10px;
+    color: white;
+
+}
+.course-text{
+    background-color: rgba(62, 49, 40, 0.639);
+    border-radius: 5px;
+}

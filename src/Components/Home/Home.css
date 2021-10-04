@@ -1,0 +1,38 @@
+.banner{
+    position: relative;
+    z-index: 33;
+}
+
+.imgs{
+    
+    width: 40%;
+    align-items: center;
+}
+.banner-tag {
+    font-size: 3vw;
+    color: white;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 4px;
+    background-color: rgba(0, 0, 0, 0.288);
+    padding: 15px 10px;
+}
+.tag-h1{
+    letter-spacing: 10px;
+}
+.image{
+    position: fixed;
+    top: -100px;
+    left: 100px;
+    right: 0;
+    z-index: 1;
+    max-width: 100%;
+    margin: auto;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    pointer-events: none;
+    filter: blur(10px);
+    opacity: 40px;
+  }
